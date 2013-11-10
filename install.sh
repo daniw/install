@@ -174,6 +174,12 @@ wget http://www.bluej.org/download/files/bluej-310.deb
 dpkg -i bluej-310.deb
 rm bluej-310.deb
 
+# install cura (software for ultimaker 3d printer)
+cd /tmp/
+wget http://software.ultimaker.com/current/Cura-13.11-debian.deb
+dpkg -i Cura-13.11-debian.deb
+rm Cura-13.11-debian.deb
+
 # write disk usage after installation to dfafter.txt
 cd
 df > dfafter.txt
