@@ -46,6 +46,9 @@ packages+=(vlc)
 packages+=(virtualbox)
 packages+=(virtualbox-qt virtualbox-dkms virtualbox-guest-dkms)
 
+# wine
+packages+=(wine)
+
 # texlive
 packages+=(texlive texlive-lang-german texlive-doc-de texlive-latex-extra)
 # latex beamer class
@@ -179,6 +182,12 @@ cd /tmp/
 wget http://software.ultimaker.com/current/Cura-13.11-debian.deb
 dpkg -i Cura-13.11-debian.deb
 rm Cura-13.11-debian.deb
+
+# install ltspice (wine from above recommended)
+cd /tmp/
+wget http://ltspice.linear-tech.com/software/LTspiceIV.exe
+wine LTspiceIV.exe
+rm LTspiceIV.exe
 
 # write disk usage after installation to dfafter.txt
 cd
