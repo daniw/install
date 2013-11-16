@@ -17,3 +17,6 @@ git clone http://daniw@github.com/fosa/fosamath
 git clone http://daniw@github.com/fosa/fosaphy
 git clone http://daniw@github.com/fosa/fosastoc
 git clone http://daniw@github.com/fosa/fosatm
+# lg-hslu
+cd ~/studium/lg-hslu
+git clone http://daniw@github.com/lg-hslu/lg-hslu.github.com
