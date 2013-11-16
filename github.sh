@@ -1,5 +1,5 @@
 #!/bin/bash
-# Script for configuring my preinstalled ubuntu
+# Script for getting all my recently used git repos
 
 # creating structure for studies
 cd ~
