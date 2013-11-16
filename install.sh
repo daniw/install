@@ -5,6 +5,7 @@
 # Thanks to gandro for his help creating this script
 
 # write disk usage before installation to dfbefore.txt
+cd 
 df > dfbefore.txt
 
 # empty array
@@ -194,5 +195,6 @@ cd
 df > dfafter.txt
 
 # show disk usage
+cd
 cat dfbefore.txt
 cat dfafter.txt
