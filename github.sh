@@ -20,3 +20,15 @@ git clone http://daniw@github.com/fosa/fosatm
 # lg-hslu
 cd ~/studium/lg-hslu
 git clone http://daniw@github.com/lg-hslu/lg-hslu.github.com
+# semester 1
+cd ~/studium/sem1
+# semester 2
+cd ~/studium/sem2
+git clone http://daniw@github.com/daniw/et2
+git clone http://daniw@github.com/daniw/ingto
+git clone http://daniw@github.com/daniw/kontt2
+git clone http://daniw@github.com/daniw/stoc
+cd ~/studium/sem3
+git clone http://daniw@github.com/daniw/et-elo
+git clone http://daniw@github.com/daniw/maphy2
+git clone http://daniw@github.com/daniw/prg1
