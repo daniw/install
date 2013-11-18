@@ -38,3 +38,23 @@ git clone http://daniw@github.com/ninux/et2-lab
 git clone http://daniw@github.com/ninux/ingtools
 git clone http://daniw@github.com/ninux/prg1
 git clone http://daniw@github.com/ninux/stoc
+
+# creating structure for elecronic projects
+cd ~
+mkdir electronic
+cd electronic
+mkdir prj
+mkdir ext_prj
+# my own or luxeria projects
+cd prj
+git clone http://daniw@github.com/luxeria/e-wall
+git clone http://daniw@github.com/daniw/install
+git clone http://daniw@github.com/daniw/latex-document
+git clone http://daniw@github.com/daniw/msp430helloworld
+git clone http://daniw@github.com/luxeria/pc-gen
+git clone http://daniw@github.com/luxeria/py-uLCD
+git clone http://daniw@github.com/daniw/slimsata
+git clone http://daniw@github.com/daniw/stepperdriver
+git clone http://daniw@github.com/daniw/turningtabledriver
+git clone http://daniw@github.com/luxeria/tvbgone
+git clone http://daniw@github.com/daniw/xlr_pegelwandler
