@@ -3,14 +3,14 @@
 
 # creating structure for studies
 cd ~
-mkdir studium
+mkdir -p studium
 cd studium
-mkdir fosa
-mkdir lg-hslu
-mkdir sem1
-mkdir sem2
-mkdir sem3
-mkdir ninux
+mkdir -p fosa
+mkdir -p lg-hslu
+mkdir -p sem1
+mkdir -p sem2
+mkdir -p sem3
+mkdir -p ninux
 # fosa
 cd ~/studium/fosa
 git clone http://daniw@github.com/fosa/fosaet
@@ -43,10 +43,10 @@ git clone http://daniw@github.com/ninux/stoc
 
 # creating structure for elecronic projects
 cd ~
-mkdir electronic
+mkdir -p electronic
 cd electronic
-mkdir prj
-mkdir ext_prj
+mkdir -p prj
+mkdir -p ext_prj
 # my own or luxeria projects
 cd ~/electronic/prj
 git clone http://daniw@github.com/luxeria/e-wall
@@ -65,7 +65,7 @@ cd ~/electronic/ext_prj
 
 # creating structure for luxeria
 cd ~
-mkdir luxeria
+mkdir -p luxeria
 # luxeria repos
 cd ~/luxeria
 git clone http://daniw@github.com/ict-days/ict-days.github.com
