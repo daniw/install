@@ -58,3 +58,15 @@ git clone http://daniw@github.com/daniw/stepperdriver
 git clone http://daniw@github.com/daniw/turningtabledriver
 git clone http://daniw@github.com/luxeria/tvbgone
 git clone http://daniw@github.com/daniw/xlr_pegelwandler
+
+# creating structure for luxeria
+cd ~
+mkdir luxeria
+cd luxeria
+# luxeria repos
+git clone http://daniw@github.com/ict-days/ict-days.github.com
+git clone http://daniw@github.com/luxeria/luxeria.github.com
+git clone http://daniw@github.com/luxeria/luxlab
+git clone http://daniw@github.com/luxeria/luxpage
+git clone http://daniw@github.com/luxeria/luxstat
+git clone http://daniw@github.com/luxeria/luxtex
