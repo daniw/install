@@ -10,6 +10,7 @@ mkdir lg-hslu
 mkdir sem1
 mkdir sem2
 mkdir sem3
+mkdir ninux
 # fosa
 cd ~/studium/fosa
 git clone http://daniw@github.com/fosa/fosaet
@@ -32,3 +33,8 @@ cd ~/studium/sem3
 git clone http://daniw@github.com/daniw/et-elo
 git clone http://daniw@github.com/daniw/maphy2
 git clone http://daniw@github.com/daniw/prg1
+# repos from ninux
+git clone http://daniw@github.com/ninux/et2-lab
+git clone http://daniw@github.com/ninux/ingtools
+git clone http://daniw@github.com/ninux/prg1
+git clone http://daniw@github.com/ninux/stoc
