@@ -29,11 +29,13 @@ git clone http://daniw@github.com/daniw/et2
 git clone http://daniw@github.com/daniw/ingto
 git clone http://daniw@github.com/daniw/kontt2
 git clone http://daniw@github.com/daniw/stoc
+# semester 3
 cd ~/studium/sem3
 git clone http://daniw@github.com/daniw/et-elo
 git clone http://daniw@github.com/daniw/maphy2
 git clone http://daniw@github.com/daniw/prg1
 # repos from ninux
+cd ~/studium/ninux
 git clone http://daniw@github.com/ninux/et2-lab
 git clone http://daniw@github.com/ninux/ingtools
 git clone http://daniw@github.com/ninux/prg1
@@ -46,7 +48,7 @@ cd electronic
 mkdir prj
 mkdir ext_prj
 # my own or luxeria projects
-cd prj
+cd ~/electronic/prj
 git clone http://daniw@github.com/luxeria/e-wall
 git clone http://daniw@github.com/daniw/install
 git clone http://daniw@github.com/daniw/latex-document
@@ -58,12 +60,14 @@ git clone http://daniw@github.com/daniw/stepperdriver
 git clone http://daniw@github.com/daniw/turningtabledriver
 git clone http://daniw@github.com/luxeria/tvbgone
 git clone http://daniw@github.com/daniw/xlr_pegelwandler
+# other interesting projects
+cd ~/electronic/ext_prj
 
 # creating structure for luxeria
 cd ~
 mkdir luxeria
-cd luxeria
 # luxeria repos
+cd ~/luxeria
 git clone http://daniw@github.com/ict-days/ict-days.github.com
 git clone http://daniw@github.com/luxeria/luxeria.github.com
 git clone http://daniw@github.com/luxeria/luxlab
