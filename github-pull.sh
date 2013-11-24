@@ -44,27 +44,27 @@ cd ~/studium/ninux/stoc
 git pull
 
 # my own or luxeria projects
-cd ~/electronic/prj/e-wall
+cd ~/ele/prj/e-wall
 git pull
-cd ~/electronic/prj/install
+cd ~/ele/prj/install
 git pull
-cd ~/electronic/prj/latex-document
+cd ~/ele/prj/latex-document
 git pull
-cd ~/electronic/prj/msp430helloworld
+cd ~/ele/prj/msp430helloworld
 git pull
-cd ~/electronic/prj/pc-gen
+cd ~/ele/prj/pc-gen
 git pull
-cd ~/electronic/prj/py-uLCD
+cd ~/ele/prj/py-uLCD
 git pull
-cd ~/electronic/prj/slimsata
+cd ~/ele/prj/slimsata
 git pull
-cd ~/electronic/prj/stepperdriver
+cd ~/ele/prj/stepperdriver
 git pull
-cd ~/electronic/prj/turningtabledriver
+cd ~/ele/prj/turningtabledriver
 git pull
-cd ~/electronic/prj/tvbgone
+cd ~/ele/prj/tvbgone
 git pull
-cd ~/electronic/prj/xlr_pegelwandler
+cd ~/ele/prj/xlr_pegelwandler
 git pull
 
 # luxeria repos

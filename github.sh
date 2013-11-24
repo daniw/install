@@ -43,12 +43,12 @@ git clone http://daniw@github.com/ninux/stoc
 
 # creating structure for elecronic projects
 cd ~
-mkdir -p electronic
-cd electronic
+mkdir -p ele
+cd ele
 mkdir -p prj
 mkdir -p ext_prj
 # my own or luxeria projects
-cd ~/electronic/prj
+cd ~/ele/prj
 git clone http://daniw@github.com/luxeria/e-wall
 git clone http://daniw@github.com/daniw/install
 git clone http://daniw@github.com/daniw/latex-document
@@ -61,7 +61,7 @@ git clone http://daniw@github.com/daniw/turningtabledriver
 git clone http://daniw@github.com/luxeria/tvbgone
 git clone http://daniw@github.com/daniw/xlr_pegelwandler
 # other interesting projects
-cd ~/electronic/ext_prj
+cd ~/ele/ext_prj
 
 # creating structure for luxeria
 cd ~
