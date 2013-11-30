@@ -87,6 +87,11 @@ packages+=(netbeans)
 # msp430 toolchain
 packages+=(binutils-msp430 gcc-msp430 gdb-msp430 msp430-libc msp430mcu mspdebug)
 
+# arduino ide (requires the user to be in the group dialout)
+packages+=(arduino arduino-core)
+packages+=(arduino-mighty-1284p)
+packages+=(arduino-mk)
+
 # dropbox
 packages+=(nautilus-dropbox)
 
@@ -171,6 +176,9 @@ sed -i /NoDisplay/s/true/false/g /usr/share/xsessions/awesome.desktop
 
 # set vim as standard editor
 #~ update-alternatives --config vim
+
+# enable serial connections (required for arduino ide)
+adduser daniw dialout
 
 # install bluej (simple java development environment)
 cd /tmp/
