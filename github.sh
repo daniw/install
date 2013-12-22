@@ -15,6 +15,7 @@ mkdir -p ninux
 cd ~/studium/fosa
 git clone http://daniw@github.com/fosa/fosaet
 git clone http://daniw@github.com/fosa/fosamath
+git clone http://daniw@github.com/fosa/fosapage
 git clone http://daniw@github.com/fosa/fosaphy
 git clone http://daniw@github.com/fosa/fosastoc
 git clone http://daniw@github.com/fosa/fosatm

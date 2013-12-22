@@ -6,6 +6,8 @@ cd ~/studium/fosa/fosaet
 git pull
 cd ~/studium/fosa/fosamath
 git pull
+cd ~/studium/fosa/fosapage
+git pull
 cd ~/studium/fosa/fosaphy
 git pull
 cd ~/studium/fosa/fosastoc
