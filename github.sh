@@ -20,6 +20,7 @@ git clone http://daniw@github.com/fosa/fosaphy
 git clone http://daniw@github.com/fosa/fosastoc
 git clone http://daniw@github.com/fosa/fosatm
 git clone http://daniw@github.com/fosa/kugprg
+git clone http://daniw@github.com/fosa/titlepage
 # lg-hslu
 cd ~/studium/lg-hslu
 git clone http://daniw@github.com/lg-hslu/lg-hslu.github.com
