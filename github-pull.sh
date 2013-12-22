@@ -14,6 +14,8 @@ cd ~/studium/fosa/fosastoc
 git pull
 cd ~/studium/fosa/fosatm
 git pull
+cd ~/studium/fosa/kugprg
+git pull
 # lg-hslu
 cd ~/studium/lg-hslu/lg-hslu.github.com
 git pull
