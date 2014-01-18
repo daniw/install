@@ -18,6 +18,8 @@ cd ~/studium/fosa/kugprg
 git pull
 cd ~/studium/fosa/titlepage
 git pull
+cd ~/studium/fosa/fosainfo
+git pull
 # lg-hslu
 cd ~/studium/lg-hslu/lg-hslu.github.com
 git pull

@@ -21,6 +21,7 @@ git clone http://daniw@github.com/fosa/fosatm
 git clone http://daniw@github.com/fosa/fosaweb
 git clone http://daniw@github.com/fosa/kugprg
 git clone http://daniw@github.com/fosa/titlepage
+git clone http://danie@github.com/fosa/fosainfo
 # lg-hslu
 cd ~/studium/lg-hslu
 git clone http://daniw@github.com/lg-hslu/lg-hslu.github.com
