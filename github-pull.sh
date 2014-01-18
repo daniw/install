@@ -26,6 +26,7 @@ git pull
 echo titlepage
 cd ~/studium/fosa/titlepage
 git pull
+echo fosainfo
 cd ~/studium/fosa/fosainfo
 git pull
 # lg-hslu
