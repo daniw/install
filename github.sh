@@ -32,6 +32,8 @@ echo titlepage
 git clone http://daniw@github.com/fosa/titlepage
 echo fosainfo
 git clone http://danie@github.com/fosa/fosainfo
+echo fosaguide
+git clone http://daniw@github.com/fosa/fosaguide
 # lg-hslu
 cd ~/studium/lg-hslu
 echo lg-hslu

@@ -29,6 +29,9 @@ git pull
 echo fosainfo
 cd ~/studium/fosa/fosainfo
 git pull
+echo fosaguide
+cd ~/studium/fosa/fosaguide
+git pull
 # lg-hslu
 echo lg-hslu
 cd ~/studium/lg-hslu/lg-hslu.github.com
