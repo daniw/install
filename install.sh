@@ -92,6 +92,10 @@ packages+=(arduino arduino-core)
 packages+=(arduino-mighty-1284p)
 packages+=(arduino-mk)
 
+# R 
+packages+=(r-base)
+packages+=(r-recommended)
+
 # dropbox
 packages+=(nautilus-dropbox)
 
