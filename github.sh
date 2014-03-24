@@ -1,9 +1,13 @@
 #!/bin/bash
 # Script for getting all my recently used git repos
 
+#define where all my repos should be
+homedir=~/data
+mkdir $homedir
+
 # creating structure for studies
 echo studies
-cd ~
+cd $homedir
 mkdir -p studium
 cd studium
 mkdir -p fosa
@@ -13,7 +17,7 @@ mkdir -p sem2
 mkdir -p sem3
 mkdir -p ninux
 # fosa
-cd ~/studium/fosa
+cd $homedir/studium/fosa
 echo fosaet
 git clone http://daniw@github.com/fosa/fosaet
 echo fosamath
@@ -35,13 +39,13 @@ git clone http://danie@github.com/fosa/fosainfo
 echo fosaguide
 git clone http://daniw@github.com/fosa/fosaguide
 # lg-hslu
-cd ~/studium/lg-hslu
+cd $homedir/studium/lg-hslu
 echo lg-hslu
 git clone http://daniw@github.com/lg-hslu/lg-hslu.github.com
 # semester 1
-cd ~/studium/sem1
+cd $homedir/studium/sem1
 # semester 2
-cd ~/studium/sem2
+cd $homedir/studium/sem2
 echo et2
 git clone http://daniw@github.com/daniw/et2
 echo ingto
@@ -51,7 +55,7 @@ git clone http://daniw@github.com/daniw/kontt2
 echo stoc
 git clone http://daniw@github.com/daniw/stoc
 # semester 3
-cd ~/studium/sem3
+cd $homedir/studium/sem3
 echo et-elo
 git clone http://daniw@github.com/daniw/et-elo
 echo maphy2
@@ -59,7 +63,7 @@ git clone http://daniw@github.com/daniw/maphy2
 echo prg1
 git clone http://daniw@github.com/daniw/prg1
 # repos from ninux
-cd ~/studium/ninux
+cd $homedir/studium/ninux
 echo ninix/et2-lab
 git clone http://daniw@github.com/ninux/et2-lab
 echo ninux/ingtools
@@ -71,13 +75,13 @@ git clone http://daniw@github.com/ninux/stoc
 
 # creating structure for elecronic projects
 echo projects
-cd ~
+cd $homedir
 mkdir -p ele
 cd ele
 mkdir -p prj
 mkdir -p ext_prj
 # my own or luxeria projects
-cd ~/ele/prj
+cd $homedir/ele/prj
 echo e-wall
 git clone http://daniw@github.com/luxeria/e-wall
 echo install
@@ -101,14 +105,14 @@ git clone http://daniw@github.com/luxeria/tvbgone
 echo xlr_pegelwandler
 git clone http://daniw@github.com/daniw/xlr_pegelwandler
 # other interesting projects
-cd ~/ele/ext_prj
+cd $homedir/ele/ext_prj
 
 # creating structure for luxeria
 echo luxeria
-cd ~
+cd $homedir
 mkdir -p luxeria
 # luxeria repos
-cd ~/luxeria
+cd $homedir/luxeria
 echo ict-days
 git clone http://daniw@github.com/ict-days/ict-days.github.com
 echo luxeria
