@@ -99,6 +99,8 @@ echo install
 git clone http://daniw@github.com/daniw/install
 echo latex-document
 git clone http://daniw@github.com/daniw/latex-document
+echo mccar
+git clone http://daniw@github.com/daniw/mccar-sync
 echo msp430helloworld
 git clone http://daniw@github.com/daniw/msp430helloworld
 echo pc-gen

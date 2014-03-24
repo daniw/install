@@ -101,6 +101,9 @@ git pull
 echo latex-document
 cd $homedir/ele/prj/latex-document
 git pull
+echo mccar
+cd $homedir/ele(prj/mccar
+git pull
 echo msp430helloworld
 cd $homedir/ele/prj/msp430helloworld
 git pull
