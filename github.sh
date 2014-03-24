@@ -21,6 +21,8 @@ mkdir -p ninux
 cd $homedir/studium/fosa
 echo fosaet
 git clone http://daniw@github.com/fosa/fosaet
+echo fosalrs
+git clone http://daniw@github.com/fosa/fosalrs
 echo fosamath
 git clone http://daniw@github.com/fosa/fosamath
 echo fosaphy

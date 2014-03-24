@@ -8,6 +8,9 @@ homedir=~/data
 echo fosaet
 cd $homedir/studium/fosa/fosaet
 git pull
+echo fosalrs
+cd $homedir/studium/fosa/fosalrs
+git pull
 echo fosamath
 cd $homedir/studium/fosa/fosamath
 git pull
