@@ -64,6 +64,19 @@ git pull
 echo prg1
 cd $homedir/studium/sem3/prg1
 git pull
+#semester 4
+echo fce
+cd $homedir/studium/sem4/fce
+git pull
+echo lrs
+cd $homedir/studium/sem4/lrs
+git pull
+echo mc
+cd $homedir/studium/sem4/mc
+git pull
+echo prg2
+cd $homedir/studium/sem4/prg2
+git pull
 # repos from ninux
 echo ninux/et2-lab
 cd $homedir/studium/ninux/et2-lab

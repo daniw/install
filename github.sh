@@ -15,6 +15,7 @@ mkdir -p lg-hslu
 mkdir -p sem1
 mkdir -p sem2
 mkdir -p sem3
+mkdir -p sem4
 mkdir -p ninux
 # fosa
 cd $homedir/studium/fosa
@@ -62,6 +63,16 @@ echo maphy2
 git clone http://daniw@github.com/daniw/maphy2
 echo prg1
 git clone http://daniw@github.com/daniw/prg1
+# semester 4
+cd $homedir/studium/sem4
+echo fce
+git clone http:/daniw@github.com/daniw/fce
+echo lrs
+git clone http:/daniw@github.com/daniw/lrs
+echo mc
+git clone http:/daniw@github.com/daniw/mc
+echo prg2
+git clone http:/daniw@github.com/daniw/prg2
 # repos from ninux
 cd $homedir/studium/ninux
 echo ninix/et2-lab
