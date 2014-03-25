@@ -51,7 +51,8 @@ packages+=(virtualbox-qt virtualbox-dkms virtualbox-guest-dkms)
 packages+=(wine)
 
 # texlive
-packages+=(texlive texlive-lang-german texlive-doc-de texlive-latex-extra)
+#~ packages+=(texlive texlive-lang-german texlive-doc-de texlive-latex-extra)
+packages+=(texlive texlive-lang-german texlive-latex-extra)
 # latex beamer class
 packages+=(latex-beamer)
 
