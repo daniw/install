@@ -130,6 +130,12 @@ packages+=(gimp-help-de language-pack-gnome-de)
 # gnumeric
 packages+=(gnumeric gnumeric-plugins-extra gnumeric-doc)
 
+# octave
+packages+=(octave octave-doc octave-epstk)
+
+#scilab
+packages+=(scilab scilab-doc scilab-sivp)
+
 # mplayer
 packages+=(mplayer mplayer-gui)
 # additional codecs
