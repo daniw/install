@@ -17,6 +17,12 @@ packages+=(awesome)
 # redshift
 packages+=(redshift)
 
+# ascii (tool to show ascii table)
+packages+=(ascii)
+
+# minicom
+packages+=(minicom)
+
 # mutt
 packages+=(mutt msmtp)
 
