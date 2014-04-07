@@ -103,6 +103,9 @@ packages+=(arduino-mk)
 packages+=(r-base)
 packages+=(r-recommended)
 
+# wxpython
+packages+=(python-wxgtk2.8 python-wxtools wx2.8-i18n)
+
 # dropbox
 packages+=(nautilus-dropbox)
 
