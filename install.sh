@@ -105,6 +105,7 @@ packages+=(r-recommended)
 
 # wxpython
 packages+=(python-wxgtk2.8 python-wxtools wx2.8-i18n)
+packages+=(python-wxglade)
 
 # dropbox
 packages+=(nautilus-dropbox)
