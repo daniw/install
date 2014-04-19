@@ -80,6 +80,8 @@ git pull
 echo prg2
 cd $homedir/studium/sem4/prg2
 git pull
+echo test
+cd $homedir/studium/sem4/test
 # repos from ninux
 echo ninux/et2-lab
 cd $homedir/studium/ninux/et2-lab

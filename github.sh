@@ -75,6 +75,8 @@ echo mc
 git clone http://daniw@github.com/daniw/mc
 echo prg2
 git clone http://daniw@github.com/daniw/prg2
+echo test
+git clone http://daniw@github.com/prg2lt7/test
 # repos from ninux
 cd $homedir/studium/ninux
 echo ninix/et2-lab
