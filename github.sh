@@ -97,6 +97,8 @@ mkdir -p prj
 mkdir -p ext_prj
 # my own or luxeria projects
 cd $homedir/ele/prj
+echo carsteuerung
+git clone http://daniw@github.com/adrianimboden/carsteuerung
 echo e-wall
 git clone http://daniw@github.com/luxeria/e-wall
 echo install
