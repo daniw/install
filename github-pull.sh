@@ -80,8 +80,15 @@ git pull
 echo prg2
 cd $homedir/studium/sem4/prg2
 git pull
+echo prg2-mep
+cd $homedir/studium/sem4/prg2-mep
+git pull
 echo test
 cd $homedir/studium/sem4/test
+git pull
+echo con4
+cd $homedir/studium/sem4/con4
+git pull
 # repos from ninux
 echo ninux/et2-lab
 cd $homedir/studium/ninux/et2-lab
@@ -102,6 +109,9 @@ cd $homedir/ele/prj/carsteuerung
 git pull
 echo e-wall
 cd $homedir/ele/prj/e-wall
+git pull
+echo fpga-test
+cd $homedir/ele/prj/fpga-test
 git pull
 echo install
 cd $homedir/ele/prj/install
@@ -143,6 +153,9 @@ cd $homedir/luxeria/ict-days.github.com
 git pull
 echo luxeria
 cd $homedir/luxeria/luxeria.github.com
+git pull
+echo liblux
+cd $homedir/luxeria/liblux
 git pull
 echo luxlab
 cd $homedir/luxeria/luxlab

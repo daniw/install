@@ -75,8 +75,12 @@ echo mc
 git clone http://daniw@github.com/daniw/mc
 echo prg2
 git clone http://daniw@github.com/daniw/prg2
+echo prg2-mep
+git clone http://daniw@github.com/daniw/prg2-mep
 echo test
 git clone http://daniw@github.com/prg2lt7/test
+echo con4
+git clone http://daniw@github.com/prg2lt7/con4
 # repos from ninux
 cd $homedir/studium/ninux
 echo ninix/et2-lab
@@ -101,12 +105,14 @@ echo carsteuerung
 git clone http://daniw@github.com/adrianimboden/carsteuerung
 echo e-wall
 git clone http://daniw@github.com/luxeria/e-wall
+echo fpga-test
+git clone http://daniw@github.com/daniw/fpga-test
 echo install
 git clone http://daniw@github.com/daniw/install
 echo latex-document
 git clone http://daniw@github.com/daniw/latex-document
 echo mccar
-git clone http://daniw@github.com/daniw/mccar-sync
+git clone http://daniw@github.com/luxeria/mccar-sync
 echo msp430helloworld
 git clone http://daniw@github.com/daniw/msp430helloworld
 echo pc-gen
@@ -134,6 +140,8 @@ mkdir -p luxeria
 cd $homedir/luxeria
 echo ict-days
 git clone http://daniw@github.com/ict-days/ict-days.github.com
+echo liblux
+git clone http://daniw@github.com/luxeria/liblux
 echo luxeria
 git clone http://daniw@github.com/luxeria/luxeria.github.com
 echo luxlab
