@@ -89,6 +89,25 @@ git pull
 echo con4
 cd $homedir/studium/sem4/con4
 git pull
+#semester 5
+echo ae
+cd $homedir/studium/sem4/ae
+git pull
+echo ecs
+cd $homedir/studium/sem4/ecs
+git pull
+echo intro
+cd $homedir/studium/sem4/intro
+git pull
+echo pren1
+cd $homedir/studium/sem4/pren1
+git pull
+echo test
+cd $homedir/studium/sem4/test
+git pull
+echo INTRO_HS2014
+cd $homedir/studium/sem4/INTRO_HS2014
+git pull
 # repos from ninux
 echo ninux/et2-lab
 cd $homedir/studium/ninux/et2-lab

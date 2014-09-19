@@ -16,6 +16,7 @@ mkdir -p sem1
 mkdir -p sem2
 mkdir -p sem3
 mkdir -p sem4
+mkdir -p sem5
 mkdir -p ninux
 # fosa
 cd $homedir/studium/fosa
@@ -81,6 +82,20 @@ echo test
 git clone http://daniw@github.com/prg2lt7/test
 echo con4
 git clone http://daniw@github.com/prg2lt7/con4
+# semester 5
+cd $homedir/studium/sem5
+echo ae
+git clone http://daniw@github.com/daniw/ae
+echo ecs
+git clone http://daniw@github.com/daniw/ecs
+echo intro
+git clone http://daniw@github.com/daniw/intro
+echo pren1
+git clone https://daniw@github.com/pren-t27/pren1
+echo test
+git clone https://daniw@github.com/pren-t27/test
+echo INTRO_HS2014
+git clone https://daniw@github.com/ErichStyger/INTRO_HS2014
 # repos from ninux
 cd $homedir/studium/ninux
 echo ninix/et2-lab
