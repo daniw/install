@@ -120,8 +120,6 @@ mkdir -p prj
 mkdir -p ext_prj
 # my own or luxeria projects
 cd $homedir/ele/prj
-echo carsteuerung
-git clone http://daniw@github.com/adrianimboden/carsteuerung
 echo e-wall
 git clone http://daniw@github.com/luxeria/e-wall
 echo fpga-test
@@ -130,7 +128,7 @@ echo install
 git clone http://daniw@github.com/daniw/install
 echo latex-document
 git clone http://daniw@github.com/daniw/latex-document
-echo mccar
+echo mccar-sync
 git clone http://daniw@github.com/luxeria/mccar-sync
 echo msp430helloworld
 git clone http://daniw@github.com/daniw/msp430helloworld
