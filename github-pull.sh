@@ -108,6 +108,9 @@ git pull
 echo INTRO_HS2014
 cd $homedir/studium/sem5/INTRO_HS2014
 git pull
+echo mcuoneclipse
+cd $homedir/studium/sem5/mcuoneclipse
+git pull
 echo sumo
 cd $homedir/studium/sem5/sumo
 git pull

@@ -96,6 +96,8 @@ echo test
 git clone https://daniw@github.com/pren-t27/test
 echo INTRO_HS2014
 git clone https://daniw@github.com/ErichStyger/INTRO_HS2014
+echo mcuoneclipse
+git clone https://daniw@github.com/ErichStyger/mcuoneclipse
 echo sumo
 git clone https://daniw@github.com/infotronik/sumo
 # repos from ninux
