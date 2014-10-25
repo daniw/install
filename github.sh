@@ -21,75 +21,75 @@ mkdir -p ninux
 # fosa
 cd $homedir/studium/fosa
 echo fosaet
-git clone http://daniw@github.com/fosa/fosaet
+git clone https://daniw@github.com/fosa/fosaet
 echo fosalrs
-git clone http://daniw@github.com/fosa/fosalrs
+git clone https://daniw@github.com/fosa/fosalrs
 echo fosamath
-git clone http://daniw@github.com/fosa/fosamath
+git clone https://daniw@github.com/fosa/fosamath
 echo fosaphy
-git clone http://daniw@github.com/fosa/fosaphy
+git clone https://daniw@github.com/fosa/fosaphy
 echo fosastoc
-git clone http://daniw@github.com/fosa/fosastoc
+git clone https://daniw@github.com/fosa/fosastoc
 echo fosatm
-git clone http://daniw@github.com/fosa/fosatm
+git clone https://daniw@github.com/fosa/fosatm
 echo fosaweb
-git clone http://daniw@github.com/fosa/fosaweb
+git clone https://daniw@github.com/fosa/fosaweb
 echo kugprg
-git clone http://daniw@github.com/fosa/kugprg
+git clone https://daniw@github.com/fosa/kugprg
 echo titlepage
-git clone http://daniw@github.com/fosa/titlepage
+git clone https://daniw@github.com/fosa/titlepage
 echo fosainfo
-git clone http://danie@github.com/fosa/fosainfo
+git clone https://danie@github.com/fosa/fosainfo
 echo fosaguide
-git clone http://daniw@github.com/fosa/fosaguide
+git clone https://daniw@github.com/fosa/fosaguide
 # lg-hslu
 cd $homedir/studium/lg-hslu
 echo lg-hslu
-git clone http://daniw@github.com/lg-hslu/lg-hslu.github.com
+git clone https://daniw@github.com/lg-hslu/lg-hslu.github.com
 # semester 1
 cd $homedir/studium/sem1
 # semester 2
 cd $homedir/studium/sem2
 echo et2
-git clone http://daniw@github.com/daniw/et2
+git clone https://daniw@github.com/daniw/et2
 echo ingto
-git clone http://daniw@github.com/daniw/ingto
+git clone https://daniw@github.com/daniw/ingto
 echo kontt2
-git clone http://daniw@github.com/daniw/kontt2
+git clone https://daniw@github.com/daniw/kontt2
 echo stoc
-git clone http://daniw@github.com/daniw/stoc
+git clone https://daniw@github.com/daniw/stoc
 # semester 3
 cd $homedir/studium/sem3
 echo et-elo
-git clone http://daniw@github.com/daniw/et-elo
+git clone https://daniw@github.com/daniw/et-elo
 echo maphy2
-git clone http://daniw@github.com/daniw/maphy2
+git clone https://daniw@github.com/daniw/maphy2
 echo prg1
-git clone http://daniw@github.com/daniw/prg1
+git clone https://daniw@github.com/daniw/prg1
 # semester 4
 cd $homedir/studium/sem4
 echo fce
-git clone http://daniw@github.com/daniw/fce
+git clone https://daniw@github.com/daniw/fce
 echo lrs
-git clone http://daniw@github.com/daniw/lrs
+git clone https://daniw@github.com/daniw/lrs
 echo mc
-git clone http://daniw@github.com/daniw/mc
+git clone https://daniw@github.com/daniw/mc
 echo prg2
-git clone http://daniw@github.com/daniw/prg2
+git clone https://daniw@github.com/daniw/prg2
 echo prg2-mep
-git clone http://daniw@github.com/daniw/prg2-mep
+git clone https://daniw@github.com/daniw/prg2-mep
 echo test
-git clone http://daniw@github.com/prg2lt7/test
+git clone https://daniw@github.com/prg2lt7/test
 echo con4
-git clone http://daniw@github.com/prg2lt7/con4
+git clone https://daniw@github.com/prg2lt7/con4
 # semester 5
 cd $homedir/studium/sem5
 echo ae
-git clone http://daniw@github.com/daniw/ae
+git clone https://daniw@github.com/daniw/ae
 echo ecs
-git clone http://daniw@github.com/daniw/ecs
+git clone https://daniw@github.com/daniw/ecs
 echo intro
-git clone http://daniw@github.com/daniw/intro
+git clone https://daniw@github.com/daniw/intro
 echo pren1
 git clone https://daniw@github.com/pren-t27/pren1
 echo test
@@ -105,13 +105,13 @@ git clone https://daniw@github.com/ErichStyger/CrashCourseC
 # repos from ninux
 cd $homedir/studium/ninux
 echo ninix/et2-lab
-git clone http://daniw@github.com/ninux/et2-lab
+git clone https://daniw@github.com/ninux/et2-lab
 echo ninux/ingtools
-git clone http://daniw@github.com/ninux/ingtools
+git clone https://daniw@github.com/ninux/ingtools
 echo ninux/prg1
-git clone http://daniw@github.com/ninux/prg1
+git clone https://daniw@github.com/ninux/prg1
 echo ninux/stoc
-git clone http://daniw@github.com/ninux/stoc
+git clone https://daniw@github.com/ninux/stoc
 
 # creating structure for elecronic projects
 echo projects
@@ -123,31 +123,31 @@ mkdir -p ext_prj
 # my own or luxeria projects
 cd $homedir/ele/prj
 echo e-wall
-git clone http://daniw@github.com/luxeria/e-wall
+git clone https://daniw@github.com/luxeria/e-wall
 echo fpga-test
-git clone http://daniw@github.com/daniw/fpga-test
+git clone https://daniw@github.com/daniw/fpga-test
 echo install
-git clone http://daniw@github.com/daniw/install
+git clone https://daniw@github.com/daniw/install
 echo latex-document
-git clone http://daniw@github.com/daniw/latex-document
+git clone https://daniw@github.com/daniw/latex-document
 echo mccar-sync
-git clone http://daniw@github.com/luxeria/mccar-sync
+git clone https://daniw@github.com/luxeria/mccar-sync
 echo msp430helloworld
-git clone http://daniw@github.com/daniw/msp430helloworld
+git clone https://daniw@github.com/daniw/msp430helloworld
 echo pc-gen
-git clone http://daniw@github.com/luxeria/pc-gen
+git clone https://daniw@github.com/luxeria/pc-gen
 echo py-uLCD
-git clone http://daniw@github.com/luxeria/py-uLCD
+git clone https://daniw@github.com/luxeria/py-uLCD
 echo slimsata
-git clone http://daniw@github.com/daniw/slimsata
+git clone https://daniw@github.com/daniw/slimsata
 echo stepperdriver
-git clone http://daniw@github.com/daniw/stepperdriver
+git clone https://daniw@github.com/daniw/stepperdriver
 echo turningtabledriver
-git clone http://daniw@github.com/daniw/turningtabledriver
+git clone https://daniw@github.com/daniw/turningtabledriver
 echo tvbgone
-git clone http://daniw@github.com/luxeria/tvbgone
+git clone https://daniw@github.com/luxeria/tvbgone
 echo xlr_pegelwandler
-git clone http://daniw@github.com/daniw/xlr_pegelwandler
+git clone https://daniw@github.com/daniw/xlr_pegelwandler
 # other interesting projects
 cd $homedir/ele/ext_prj
 
@@ -158,18 +158,18 @@ mkdir -p luxeria
 # luxeria repos
 cd $homedir/luxeria
 echo ict-days
-git clone http://daniw@github.com/ict-days/ict-days.github.com
+git clone https://daniw@github.com/ict-days/ict-days.github.com
 echo liblux
-git clone http://daniw@github.com/luxeria/liblux
+git clone https://daniw@github.com/luxeria/liblux
 echo luxeria
-git clone http://daniw@github.com/luxeria/luxeria.github.com
+git clone https://daniw@github.com/luxeria/luxeria.github.com
 echo luxlab
-git clone http://daniw@github.com/luxeria/luxlab
+git clone https://daniw@github.com/luxeria/luxlab
 echo luxpage
-git clone http://daniw@github.com/luxeria/luxpage
+git clone https://daniw@github.com/luxeria/luxpage
 echo luxstat
-git clone http://daniw@github.com/luxeria/luxstat
+git clone https://daniw@github.com/luxeria/luxstat
 echo luxtex
-git clone http://daniw@github.com/luxeria/luxtex
+git clone https://daniw@github.com/luxeria/luxtex
 
 echo finished
