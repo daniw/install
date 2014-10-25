@@ -100,6 +100,8 @@ echo mcuoneclipse
 git clone https://daniw@github.com/ErichStyger/mcuoneclipse
 echo sumo
 git clone https://daniw@github.com/infotronik/sumo
+echo CrashCourseC
+git clone https://daniw@github.com/ErichStyger/CrashCourseC
 # repos from ninux
 cd $homedir/studium/ninux
 echo ninix/et2-lab
