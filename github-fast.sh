@@ -124,6 +124,9 @@ if [ 0 -lt $# ]; then
     echo CrashCourseC
     cd $homedir/studium/sem5/CrashCourseC
     git $1 &
+    echo CrashCourseC.wiki
+    cd $homedir/studium/sem5/CrashCourseC.wiki
+    git $1 &
     # repos from ninux
     echo ninux/et2-lab
     cd $homedir/studium/ninux/et2-lab

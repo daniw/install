@@ -102,6 +102,8 @@ echo sumo
 git clone https://daniw@github.com/infotronik/sumo
 echo CrashCourseC
 git clone https://daniw@github.com/ErichStyger/CrashCourseC
+echo CrashCourseC.wiki
+git clone https://daniw@github.com/ErichStyger/CrashCourseC.wiki
 # repos from ninux
 cd $homedir/studium/ninux
 echo ninix/et2-lab
