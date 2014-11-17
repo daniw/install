@@ -17,6 +17,7 @@ mkdir -p sem2
 mkdir -p sem3
 mkdir -p sem4
 mkdir -p sem5
+mkdir -p sem5/pren-et
 mkdir -p ninux
 # fosa
 cd $homedir/studium/fosa
@@ -104,6 +105,10 @@ echo CrashCourseC
 git clone https://daniw@github.com/ErichStyger/CrashCourseC
 echo CrashCourseC.wiki
 git clone https://daniw@github.com/ErichStyger/CrashCourseC.wiki
+# additional repos for pren-et in semester 5
+cd $homedir/studium/sem5/pren-et
+echo pren-et/info
+git clone https://daniw@github.com/pren-et/info
 # repos from ninux
 cd $homedir/studium/ninux
 echo ninix/et2-lab
