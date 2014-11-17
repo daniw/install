@@ -1,0 +1,88 @@
+## list of all github repos to clone
+# format: 
+# name              local path              github path
+
+# fosa
+fosaet              studium/fosa            https://daniw@github.com/fosa/fosaet
+fosalrs             studium/fosa            https://daniw@github.com/fosa/fosalrs
+fosamath            studium/fosa            https://daniw@github.com/fosa/fosamath
+fosaphy             studium/fosa            https://daniw@github.com/fosa/fosaphy
+fosastoc            studium/fosa            https://daniw@github.com/fosa/fosastoc
+fosatm              studium/fosa            https://daniw@github.com/fosa/fosatm
+fosaweb             studium/fosa            https://daniw@github.com/fosa/fosaweb
+kugprg              studium/fosa            https://daniw@github.com/fosa/kugprg
+titlepage           studium/fosa            https://daniw@github.com/fosa/titlepage
+fosainfo            studium/fosa            https://danie@github.com/fosa/fosainfo
+fosaguide           studium/fosa            https://daniw@github.com/fosa/fosaguide
+
+# lg-hslu
+lg-hslu.github.com  studium/lg-hslu         https://daniw@github.com/lg-hslu/lg-hslu.github.com
+
+#semester 2
+et2                 studium/sem2            https://daniw@github.com/daniw/et2
+ingto               studium/sem2            https://daniw@github.com/daniw/ingto
+kontt2              studium/sem2            https://daniw@github.com/daniw/kontt2
+stoc                studium/sem2            https://daniw@github.com/daniw/stoc
+
+# semester 3
+et-elo              studium/sem3            https://daniw@github.com/daniw/et-elo
+maphy2              studium/sem3            https://daniw@github.com/daniw/maphy2
+prg1                studium/sem3            https://daniw@github.com/daniw/prg1
+
+# semester 4
+fce                 studium/sem4            https://daniw@github.com/daniw/fce
+lrs                 studium/sem4            https://daniw@github.com/daniw/lrs
+mc                  studium/sem4            https://daniw@github.com/daniw/mc
+prg2                studium/sem4            https://daniw@github.com/daniw/prg2
+prg2-mep            studium/sem4            https://daniw@github.com/daniw/prg2-mep
+test                studium/sem4            https://daniw@github.com/prg2lt7/test
+con4                studium/sem4            https://daniw@github.com/prg2lt7/con4
+
+# semester 5
+ae                  studium/sem5            https://daniw@github.com/daniw/ae
+ecs                 studium/sem5            https://daniw@github.com/daniw/ecs
+intro               studium/sem5            https://daniw@github.com/daniw/intro
+pren1               studium/sem5            https://daniw@github.com/pren-t27/pren1
+test                studium/sem5            https://daniw@github.com/pren-t27/test
+INTRO_HS2014        studium/sem5            https://daniw@github.com/ErichStyger/INTRO_HS2014
+mcuoneclipse        studium/sem5            https://daniw@github.com/ErichStyger/mcuoneclipse
+sumo                studium/sem5            https://daniw@github.com/infotronik/sumo
+CrashCourseC        studium/sem5            https://daniw@github.com/ErichStyger/CrashCourseC
+CrashCourseC.wiki   studium/sem5            https://daniw@github.com/ErichStyger/CrashCourseC.wiki
+
+# additional repos 
+# for pren-et in 
+# semester 5
+info        studium/sem5/pren-et    https://daniw@github.com/pren-et/info
+
+# repos from ninux
+et2-lab             studium/ninux           https://daniw@github.com/ninux/et2-lab
+ingtools            studium/ninux           https://daniw@github.com/ninux/ingtools
+prg1                studium/ninux           https://daniw@github.com/ninux/prg1
+stoc                studium/ninux           https://daniw@github.com/ninux/stoc
+
+# my own or 
+# luxeria projects
+e-wall              ele/prj                 https://daniw@github.com/luxeria/e-wall
+fpga-test           ele/prj                 https://daniw@github.com/daniw/fpga-test
+install             ele/prj                 https://daniw@github.com/daniw/install
+latex-document      ele/prj                 https://daniw@github.com/daniw/latex-document
+mccar-sync          ele/prj                 https://daniw@github.com/luxeria/mccar-sync
+msp430helloworld    ele/prj                 https://daniw@github.com/daniw/msp430helloworld
+pc-gen              ele/prj                 https://daniw@github.com/luxeria/pc-gen
+py-uLCD             ele/prj                 https://daniw@github.com/luxeria/py-uLCD
+slimsata            ele/prj                 https://daniw@github.com/daniw/slimsata
+stepperdriver       ele/prj                 https://daniw@github.com/daniw/stepperdriver
+turningtabledriver  ele/prj                 https://daniw@github.com/daniw/turningtabledriver
+tvbgone             ele/prj                 https://daniw@github.com/luxeria/tvbgone
+xlr_pegelwandler    ele/prj                 https://daniw@github.com/daniw/xlr_pegelwandler
+
+# luxeria repos
+ict-days.github.com luxeria                 https://daniw@github.com/ict-days/ict-days.github.com
+liblux              luxeria                 https://daniw@github.com/luxeria/liblux
+luxeria.github.com  luxeria                 https://daniw@github.com/luxeria/luxeria.github.com
+luxlab              luxeria                 https://daniw@github.com/luxeria/luxlab
+luxpage             luxeria                 https://daniw@github.com/luxeria/luxpage
+luxstat             luxeria                 https://daniw@github.com/luxeria/luxstat
+luxtex              luxeria                 https://daniw@github.com/luxeria/luxtex
+
