@@ -18,7 +18,7 @@ if [ 0 -lt $# ]; then
         then
             echo $name
             cd $homedir/$local/$name
-            git $1 &
+            git $@ &
         fi
     done < github.lst
 
