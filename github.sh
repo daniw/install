@@ -17,7 +17,7 @@ do
         echo $name
         mkdir -p $homedir/$local
         cd $homedir/$local
-        git clone $remote
+        git clone $remote $name
     fi
 done < github.lst
 
