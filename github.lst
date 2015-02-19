@@ -62,6 +62,11 @@ frdm        studium/sem5/pren-et    https://daniw@github.com/pren-et/frdm
 raspberry   studium/sem5/pren-et    https://daniw@github.com/pren-et/raspberry
 stepper     studium/sem5/pren-et    https://daniw@github.com/pren-et/stepper
 
+# semester 6
+add                 studium/sem6            https://daniw@github.com/daniw/add
+ebv                 studium/sem6            https://daniw@github.com/daniw/ebv
+tkom                studium/sem6            https://daniw@github.com/daniw/tkom
+
 # repos from ninux
 et2-lab             studium/ninux           https://daniw@github.com/ninux/et2-lab
 ingtools            studium/ninux           https://daniw@github.com/ninux/ingtools
