@@ -43,7 +43,7 @@ con4                studium/sem4            https://daniw@github.com/prg2lt7/con
 ae                  studium/sem5            https://daniw@github.com/daniw/ae
 ecs                 studium/sem5            https://daniw@github.com/daniw/ecs
 intro               studium/sem5            https://daniw@github.com/daniw/intro
-pren                studium/sem5            https://daniw@github.com/pren-t27/pren1
+pren1               studium/sem5            https://daniw@github.com/pren-t27/pren1
 test                studium/sem5            https://daniw@github.com/pren-t27/test
 INTRO_HS2014        studium/sem5            https://daniw@github.com/ErichStyger/INTRO_HS2014
 mcuoneclipse        studium/sem5            https://daniw@github.com/ErichStyger/mcuoneclipse
@@ -66,6 +66,7 @@ stepper     studium/sem5/pren-et    https://daniw@github.com/pren-et/stepper
 # semester 6
 add                 studium/sem6            https://daniw@github.com/daniw/add
 ebv                 studium/sem6            https://daniw@github.com/daniw/ebv
+pren2               studium/sem6            https://daniw@github.com/pren-t27/pren2
 tkom                studium/sem6            https://daniw@github.com/daniw/tkom
 
 # repos from ninux
