@@ -22,6 +22,9 @@ if [ 0 -lt $# ]; then
         fi
     done < github.lst
 
+    wait
+
+    echo
     echo finished
 
 else
