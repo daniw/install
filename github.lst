@@ -3,10 +3,20 @@
 # name              local path              github path
 
 # fosa
+fosa_dsvb           studium/fosa            https://daniw@github.com/fosa/fosa_dsvb
+fosa_ebv            studium/fosa            https://daniw@github.com/fosa/fosa_ebv
 fosaet              studium/fosa            https://daniw@github.com/fosa/fosaet
+fosa_hmat           studium/fosa            https://daniw@github.com/fosa/fosa_hmat
+fosa_inkt           studium/fosa            https://daniw@github.com/fosa/fosa_inkt
 fosalrs             studium/fosa            https://daniw@github.com/fosa/fosalrs
+fosa_lrs            studium/fosa            https://daniw@github.com/fosa/fosa_lrs
 fosamath            studium/fosa            https://daniw@github.com/fosa/fosamath
+fosa_math2          studium/fosa            https://daniw@github.com/fosa/fosa_math2
+fosa_nanotech       studium/fosa            https://daniw@github.com/fosa/fosa_nanotech
+fosa_optik          studium/fosa            https://daniw@github.com/fosa/fosa_optik
+fosa_pma            studium/fosa            https://daniw@github.com/fosa/fosa_pma
 fosaphy             studium/fosa            https://daniw@github.com/fosa/fosaphy
+fosa_phy            studium/fosa            https://daniw@github.com/fosa/fosa_phy
 fosastoc            studium/fosa            https://daniw@github.com/fosa/fosastoc
 fosatkom            studium/fosa            https://daniw@github.com/fosa/fosatkom
 fosatm              studium/fosa            https://daniw@github.com/fosa/fosatm
