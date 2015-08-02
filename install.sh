@@ -198,6 +198,9 @@ sed -i /NoDisplay/s/true/false/g /usr/share/xsessions/awesome.desktop
 # set vim as standard editor
 #~ update-alternatives --config vim
 
+# setup for vim
+cp .vimrc ~/.vimrc
+
 # enable serial connections (required for arduino ide)
 adduser daniw dialout
 
