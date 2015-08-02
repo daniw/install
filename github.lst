@@ -55,13 +55,13 @@ rt-l                studium/sem5            https://daniw@github.com/daniw/rt-l
 # additional repos 
 # for pren-et in 
 # semester 5
-info        studium/sem5/pren-et    https://daniw@github.com/pren-et/info
-doc         studium/sem5/pren-et    https://daniw@github.com/pren-et/doc
-bldc        studium/sem5/pren-et    https://daniw@github.com/pren-et/bldc
-dc          studium/sem5/pren-et    https://daniw@github.com/pren-et/dc
-frdm        studium/sem5/pren-et    https://daniw@github.com/pren-et/frdm
-raspberry   studium/sem5/pren-et    https://daniw@github.com/pren-et/raspberry
-stepper     studium/sem5/pren-et    https://daniw@github.com/pren-et/stepper
+info                studium/sem5/pren-et    https://daniw@github.com/pren-et/info
+doc                 studium/sem5/pren-et    https://daniw@github.com/pren-et/doc
+bldc                studium/sem5/pren-et    https://daniw@github.com/pren-et/bldc
+dc                  studium/sem5/pren-et    https://daniw@github.com/pren-et/dc
+frdm                studium/sem5/pren-et    https://daniw@github.com/pren-et/frdm
+raspberry           studium/sem5/pren-et    https://daniw@github.com/pren-et/raspberry
+stepper             studium/sem5/pren-et    https://daniw@github.com/pren-et/stepper
 
 # semester 6
 add                 studium/sem6            https://daniw@github.com/daniw/add
@@ -82,8 +82,10 @@ medtech             studium/ninux           https://daniw@github.com/ninux/medte
 # my own or 
 # luxeria projects
 e-wall              ele/prj                 https://daniw@github.com/luxeria/e-wall
+foip                ele/prj                 https://daniw@github.com/luxeria/foip
 fpga-test           ele/prj                 https://daniw@github.com/daniw/fpga-test
 install             ele/prj                 https://daniw@github.com/daniw/install
+latex-basics        luxeria                 https://daniw@github.com/luxeria/latex-basics
 latex-document      ele/prj                 https://daniw@github.com/daniw/latex-document
 mccar-sync          ele/prj                 https://daniw@github.com/luxeria/mccar-sync
 msp430helloworld    ele/prj                 https://daniw@github.com/daniw/msp430helloworld
@@ -97,6 +99,7 @@ xlr_pegelwandler    ele/prj                 https://daniw@github.com/daniw/xlr_p
 
 # luxeria repos
 ict-days.github.com luxeria                 https://daniw@github.com/ict-days/ict-days.github.com
+latex-basics        luxeria                 https://daniw@github.com/luxeria/latex-basics
 liblux              luxeria                 https://daniw@github.com/luxeria/liblux
 luxeria.github.com  luxeria                 https://daniw@github.com/luxeria/luxeria.github.com
 luxlab              luxeria                 https://daniw@github.com/luxeria/luxlab
