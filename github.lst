@@ -91,8 +91,8 @@ medtech             studium/ninux           https://daniw@github.com/ninux/medte
 
 # my own or 
 # luxeria projects
-bldc-motor          ele/prj                 https://daniw@github.com/daniw/bldc-motor
 e-wall              ele/prj                 https://daniw@github.com/luxeria/e-wall
+femm-sim            ele/prj                 https://daniw@github.com/daniw/femm-sim
 foip                ele/prj                 https://daniw@github.com/luxeria/foip
 fpga-test           ele/prj                 https://daniw@github.com/daniw/fpga-test
 install             ele/prj                 https://daniw@github.com/daniw/install
