@@ -81,6 +81,12 @@ pren2               studium/sem6            https://daniw@github.com/pren-t27/pr
 tkom                studium/sem6            https://daniw@github.com/daniw/tkom
 app-template        studium/sem6            https://daniw@github.com/daniw/app-template
 
+# semester 7
+ats                 studium/sem7            https://daniw@github.com/daniw/ats
+dsvb                studium/sem7            https://daniw@github.com/daniw/dsvb
+eev                 studium/sem7            https://daniw@github.com/daniw/eev
+sell                studium/sem7            https://daniw@github.com/daniw/sell
+
 # repos from ninux
 et2-lab             studium/ninux           https://daniw@github.com/ninux/et2-lab
 ingtools            studium/ninux           https://daniw@github.com/ninux/ingtools
