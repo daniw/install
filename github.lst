@@ -3,6 +3,7 @@
 # name              local path              github path
 
 # fosa
+fosaats             studium/fosa            https://daniw@github.com/fosa/fosaats
 fosa_dsvb           studium/fosa            https://daniw@github.com/fosa/fosa_dsvb
 fosa_ebv            studium/fosa            https://daniw@github.com/fosa/fosa_ebv
 fosaet              studium/fosa            https://daniw@github.com/fosa/fosaet
